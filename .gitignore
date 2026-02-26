@@ -1,0 +1,28 @@
+# Swift build artifacts
+.build/
+*.o
+*.d
+
+# Xcode / macOS
+.DS_Store
+*.xcodeproj/
+*.xcworkspace/
+*.xcuserdata/
+DerivedData/
+
+# App bundle (built output — not source-controlled)
+*.app/
+
+# Package resolved (lock file — include if you want reproducible dependency versions)
+# Package.resolved  ← uncomment to ignore
+
+# Claude Code local settings
+.claude/
+
+# Environment / secrets
+.env
+*.env
+
+# Editor swap files
+*.swp
+*.swo
