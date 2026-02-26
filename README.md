@@ -228,6 +228,3 @@ All other functionality uses native Apple frameworks: `AppKit`, `SwiftUI`, `AVFo
 
 MIT — do whatever you like with it.
 
----
-
-*Built with [Claude Code](https://claude.ai/claude-code)*
